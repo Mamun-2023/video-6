@@ -1,1 +1,1 @@
-alert("javaScript is not complicated programming language")
+alert("javaScript is not a complicate programming language")
